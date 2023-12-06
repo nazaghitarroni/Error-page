@@ -1,0 +1,26 @@
+body.dark{
+    background-color: #202231 ;
+    transition-duration: .5s;
+    
+}
+
+body.dark h1{
+    color: white;
+}
+
+body.dark #switch{
+    background-color: whitesmoke;
+    color:#202231;;
+}
+
+body.dark p{
+    color: white;
+}
+
+body.dark #boton{
+    background-color: white;
+}
+
+body.dark #boton{
+    color: black;
+}
